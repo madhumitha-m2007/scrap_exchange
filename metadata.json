@@ -1,0 +1,6 @@
+{
+  "name": "CirculaRaw - Industrial By-Product & Scrap Exchange",
+  "description": "Secure marketplace connecting industrial waste streams with manufacturing raw material demands, backed by accredited lab quality verification and sustainability credentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
